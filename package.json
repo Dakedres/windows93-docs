@@ -1,0 +1,10 @@
+{
+  "name": "windows93-docs",
+  "description": "JSDoc-based attempt at a full documentation of https://windows93.net's APIs",
+  "version": "help",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "Apache 2.0",
+  "author": "yes"
+}
