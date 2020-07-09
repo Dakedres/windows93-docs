@@ -2,7 +2,7 @@
  * The global for interacting with Windows93's filesystem
  * @namespace
  */
-const $file = {}
+var $file = {}
 
 /**
  * Retrieve the contents of a file.
